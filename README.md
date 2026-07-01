@@ -50,7 +50,7 @@ To submit a request to the Support Team, visit <a href="https://support.regulafo
 
 ## Authors
 
-RegulaForensics
+Regula Forensics Inc.
 
 ## License
 
