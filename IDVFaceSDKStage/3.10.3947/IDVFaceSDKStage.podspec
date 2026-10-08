@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target   = '15.0.0'
   s.ios.vendored_frameworks = 'IDVFaceSDK.xcframework'
   s.dependency                'IDVModuleStage', '>= 3.10.2024'
-  s.dependency                'FaceSDK', '>= 8.3.4873'
+  s.dependency                'FaceSDK', '>= 8.4.5062'
 end
