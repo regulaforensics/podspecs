@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target   = '15.0.0'
   s.ios.vendored_frameworks = 'IDVDocumentReader.xcframework'
   s.dependency                'IDVModuleStage', '>= 3.10.2024'
-  s.dependency                'DocumentReader', '>= 9.8.6944'
+  s.dependency                'DocumentReader', '>= 9.8.7122'
 end
